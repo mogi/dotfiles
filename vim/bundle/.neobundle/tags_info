@@ -1,0 +1,10 @@
+alpaca_tags
+neobundle.vim
+python-syntax
+syntastic
+taglist.vim
+vim-autoclose
+vim-bracketed-paste
+vim-fugitive
+vim-go
+vim-yaml
